@@ -6,4 +6,4 @@ Le lancement : Dès que Data.rsdk est présent, le moteur charge les graphismes,
 ### 🧩 Comment ajouter des Mods :
 1. Créez un dossier nommé `mods` dans le répertoire du jeu : `sdcard:/switch/ DOSSIER RSDKv5/mods/`
 2. Placez vos  mods à l'intérieur du dossier `mods`.
-3. Assurez-vous que l'option des mods est activée dans le fichier `Settings.ini`(`devMenu=y` ou `upm=true` selon votre configuration)
+3. Assurez-vous que l'option des mods est activée dans le fichier `Settings.ini`(`devMenu=y` ou  selon votre configuration)
